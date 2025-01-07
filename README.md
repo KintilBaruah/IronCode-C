@@ -3,3 +3,5 @@ IronCode-C is my journey to mastering C programming from scratch in my first yea
 
 Here is the first program i do need to code:
 Hi, I am @kintilkamalbaruah. Welcome to the Codeverse!
+
+# [follow me] https://www.linkedin.com/in/kintil-baruah-37101b2a6/
